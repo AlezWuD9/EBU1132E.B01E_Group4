@@ -1,0 +1,481 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1672127265;s:6:"expire";i:1672213665;s:4:"tags";s:33:"f5a_CAT_P,f5a_BLOCK_HTML,f5a_MAGE";}
+a:2:{s:8:"policies";a:2:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:14:{s:44:"bWWg7bxViAMy3tN06shB0Pi3NEr5gm8lCbByQKRjGxo=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"6X6SoSMn5NJRgWFyHXdPzT07q/vaiDZIZ/qgZb3Kjiw=";s:6:"sha256";s:44:"pRO+hJWSdr3KNXitWXZThG9QNhhPpfr91SmigeN6/98=";s:6:"sha256";s:44:"8lC8gh2k0eUC6gvS6qf3kVJ++iEMq+yzao6Wsxf6l24=";s:6:"sha256";s:44:"Qfy2PKbb48u2WG2DEmComNWsdDADoZS3+Kit3zajsPI=";s:6:"sha256";s:44:"a79KhiJGDG1EaZ98lL34IX4xsqpPfoKXtv+GNjoI1iA=";s:6:"sha256";s:44:"aY1DMZMUu2wsZOHAUyE9iEbHYPcw4znMPgnLjj1CNco=";s:6:"sha256";s:44:"BppDYo/zSIlyvH4hjyALj6lw+xxKxhzq5dzz9eEqf6s=";s:6:"sha256";s:44:"3sNIIwtReCgyo72mJ3xeEf/UuHhduwn+NhLM5jbbThc=";s:6:"sha256";s:44:"kLQawAnHKA9RSwyNUEEQfC4I5KqBNYTgbjuOoy/mOmM=";s:6:"sha256";s:44:"Iml6vWMswLk/R0bM0dWm6Apb2z420zcFeTMe1DwOLkA=";s:6:"sha256";}}i:1;a:3:{s:2:"id";s:9:"style-src";s:5:"hosts";a:0:{}s:6:"hashes";a:8:{s:44:"X3k7IIGJYA8jx9zot8RTh5j9+QLDzLZJdtnDo+6qnPc=";s:6:"sha256";s:44:"Zcos0POxvXUpaE96bb01mERjhLk4Hl3zADGUHMEGEvk=";s:6:"sha256";s:44:"ky2DkclDrDCZbddsy6SGtHFbtLXhDsm0ciQLZ45okYI=";s:6:"sha256";s:44:"AY0JNw1Be5ICRElGOLGpI2YQlJpOF8/B/0sWxUjWIJE=";s:6:"sha256";s:44:"JNACcN9RRTCG3MKIcG6mNU+yJQGUieBLF6sU3ru5DM8=";s:6:"sha256";s:44:"/wBiKAwUoxYcaheJDc5+TmOTfaSMDUrYMmCgcwgdcdA=";s:6:"sha256";s:44:"MhUZ88jS+X5J7wcv6dVj7nByvjWQUIo6XEtJswg5GTU=";s:6:"sha256";s:44:"ezMsdSPoFXSIxK2vOXrk+lYJVrCenF33/KBc/3FsMbo=";s:6:"sha256";}}}s:4:"html";s:29020:"    <div class="block-title-main">
+        <h2>New Products</h2>
+        <div class="title-border"></div>
+    </div>
+    <div style="margin-bottom: 0;float: left;width:100%;" class="pad-main-bottom block widget products-grid block-new-products-list">
+        <div class="block-content">
+                                    <ol style="margin: 30px 0 0;" class="product-slider product-items" id="widget-new-products-product\widget\newwidget_0">
+                                    <li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/parson-rigid-vinyl-tile.html"
+                           title="Parson Rigid Core Luxury Vinyl Tile">
+                               <span class="product-image-container product-image-container-4">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/p/a/parson_v1_43c9rsw3d4cl6s1o.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Parson&#x20;Rigid&#x20;Core&#x20;Luxury&#x20;Vinyl&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-4 {
+    width: 300px;
+}
+.product-image-container-4 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-4");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-4  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/parson-rigid-vinyl-tile.html"
+                                   title="Parson Rigid Core Luxury Vinyl Tile)" class="product-item-link">
+                                       Parson Rigid Core Luxury Vinyl Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="4" data-price-box="product-id-4">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-4--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="13"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$13.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/4\/","data":{"product":"4","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/cubis-vanilla-grey-matt-mosaic-tile.html"
+                           title="Cubis Vanilla Grey Matt Mosaic Tile">
+                               <span class="product-image-container product-image-container-13">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/7/1/714338_ec1antizwnvamxcv.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Cubis&#x20;Vanilla&#x20;Grey&#x20;Matt&#x20;Mosaic&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-13 {
+    width: 300px;
+}
+.product-image-container-13 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-13");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-13  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/cubis-vanilla-grey-matt-mosaic-tile.html"
+                                   title="Cubis Vanilla Grey Matt Mosaic Tile)" class="product-item-link">
+                                       Cubis Vanilla Grey Matt Mosaic Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="13" data-price-box="product-id-13">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-13--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$8.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/13\/","data":{"product":"13","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/henley-warm-tile.html"
+                           title="Henley™ Warm Tile">
+                               <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/8/1/811490_henley-warm-tile_4_dqupxwecxsmr1ahc.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Henley&#x2122;&#x20;Warm&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 300px;
+}
+.product-image-container-6 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-6");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-6  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/henley-warm-tile.html"
+                                   title="Henley™ Warm Tile)" class="product-item-link">
+                                       Henley™ Warm Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="9"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$9.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/6\/","data":{"product":"6","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/grey-polished-tile.html"
+                           title="Grey Polished Tile">
+                               <span class="product-image-container product-image-container-15">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/8/1/811628-cgi_cv9mkkkubbimolct.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Grey&#x20;Polished&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-15 {
+    width: 300px;
+}
+.product-image-container-15 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-15");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-15  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/grey-polished-tile.html"
+                                   title="Grey Polished Tile)" class="product-item-link">
+                                       Grey Polished Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="15" data-price-box="product-id-15">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-15--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$8.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/15\/","data":{"product":"15","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/cmatt-marble-porcelain-tile.html"
+                           title="Calacatta Matt White Marble Effect Porcelain Tile">
+                               <span class="product-image-container product-image-container-8">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/l/u/luxury-tiles-calacatta-matt-white-marble-effect-po_duaae1qxyg0esu9v.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Calacatta&#x20;Matt&#x20;White&#x20;Marble&#x20;Effect&#x20;Porcelain&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-8 {
+    width: 300px;
+}
+.product-image-container-8 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-8");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-8  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/cmatt-marble-porcelain-tile.html"
+                                   title="Calacatta Matt White Marble Effect Porcelain Tile)" class="product-item-link">
+                                       Calacatta Matt White Marble Effect Porcelain Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="8" data-price-box="product-id-8">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-8--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$8.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/8\/","data":{"product":"8","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/grasmere-rigid-vinyl-tile.html"
+                           title="Grasmere Rigid Core Luxury Vinyl Tile">
+                               <span class="product-image-container product-image-container-1">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/k/i/kielder_r1_m0bpx9lrdzlocko2.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Grasmere&#x20;Rigid&#x20;Core&#x20;Luxury&#x20;Vinyl&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-1 {
+    width: 300px;
+}
+.product-image-container-1 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-1");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-1  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/grasmere-rigid-vinyl-tile.html"
+                                   title="Grasmere Rigid Core Luxury Vinyl Tile)" class="product-item-link">
+                                       Grasmere Rigid Core Luxury Vinyl Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="1" data-price-box="product-id-1">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-1--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="10"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$10.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/1\/","data":{"product":"1","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/tekno-bone-tile.html"
+                           title="Tekno™ Bone Tile">
+                               <span class="product-image-container product-image-container-10">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/b/t/btc_hartley_qoxjndz5gda6otkq.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Tekno&#x2122;&#x20;Bone&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-10 {
+    width: 300px;
+}
+.product-image-container-10 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-10");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-10  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/tekno-bone-tile.html"
+                                   title="Tekno™ Bone Tile)" class="product-item-link">
+                                       Tekno™ Bone Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="10" data-price-box="product-id-10">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-10--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="9"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$9.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/10\/","data":{"product":"10","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                                                        </li><li class="product-item">                    <div class="product-item-info">
+                        <a class="product-item-photo" href="http://localhost/magento22/kielder-rigid-vinyl-tile.html"
+                           title="Kielder Rigid Core Luxury Vinyl Tile">
+                               <span class="product-image-container product-image-container-3">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://localhost/magento22/pub/media/catalog/product\cache\3c2323983ecf8777ac9258f36e09a9ab\/u/n/untitled-1_1_1_bd5ws9atseljyfjt.jpg"
+            loading="lazy"
+            width="300"
+            height="375"
+            alt="Kielder&#x20;Rigid&#x20;Core&#x20;Luxury&#x20;Vinyl&#x20;Tile"/></span>
+</span>
+<style>.product-image-container-3 {
+    width: 300px;
+}
+.product-image-container-3 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-3");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "300px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-3  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                        </a>
+                        <div class="product-item-details">
+                            <strong class="product-item-name">
+                                <a href="http://localhost/magento22/kielder-rigid-vinyl-tile.html"
+                                   title="Kielder Rigid Core Luxury Vinyl Tile)" class="product-item-link">
+                                       Kielder Rigid Core Luxury Vinyl Tile                                </a>
+                            </strong>
+                            <div class="price-box price-final_price" data-role="priceBox" data-product-id="3" data-price-box="product-id-3">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-3--widget-new-product&#x5C;widget&#x5C;newwidget_0"                data-price-amount="13"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$13.00</span></span>
+        </span>
+
+</div>                            <div class="product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                                                                    <button type="button" title="Add to Cart"
+                                                    class="action tocart primary"
+                                                    data-post='{"action":"http:\/\/localhost\/magento22\/checkout\/cart\/add\/uenc\/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv\/product\/3\/","data":{"product":"3","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvMjIv"}}'>
+                                                <span>Add to Cart</span>
+                                            </button>
+                                                                                                            </div>
+                            </div>
+                        </div>
+                    </div>
+                    </li>                            </ol>
+            
+        <div class="pager">
+    
+                <p class="toolbar-amount">
+            <span class="toolbar-number">
+                            3 Item(s)                        </span>
+        </p>
+        
+        
+    
+        </div>
+    
+        </div>
+    </div>
+    <script>
+        require(['jquery', 'cpowlcarousel'], function ($) {
+            $(document).ready(function () {
+                $(".product-slider").owlCarousel({
+                    items: 5,
+                    itemsDesktop: [1080, 4],
+                    itemsDesktopSmall: [860, 3],
+                    itemsTablet: [768, 3],
+                    itemsTabletSmall: [639, 2],
+                    itemsMobile: [360, 2],
+                    pagination: false,
+                    navigationText: ["<div class='lft-btn'><i class='fa fa-angle-left'></i></div>", "<div class='rgt-btn'><i class='fa fa-angle-right'></div>"],
+                    navigation: true,
+                });
+            });
+        });
+    </script>
+";}
